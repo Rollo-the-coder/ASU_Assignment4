@@ -19,6 +19,7 @@ public class Assignment4
         System.out.println("Please enter an integer for the second method");
         int integer = sc.nextInt();
         displayText(integer);
+        displayText(2+3);
 
         //Method3
         System.out.println("Please enter 3 integers to add for the 3rd method");
